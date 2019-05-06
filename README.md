@@ -4,6 +4,14 @@ Work In Progress.
 
 For feature request/discussions, goto https://github.com/owo-lang/rfcs
 
+## Subprojects
+
++ A revived [Mini-TT][mtt]
++ A revived [MLPolyR][mpr]
+
+ [mtt]: https://github.com/owo-lang/Mini-TT
+ [mpr]: https://github.com/owo-lang/MLPolyR
+
 ## Some boring FAQs
 
 ### Why another Programming Language?
