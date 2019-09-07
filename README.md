@@ -8,13 +8,13 @@ For feature request/discussions, goto https://github.com/owo-lang/rfcs
 
 We do experiments, in steps.
 
-+ Stage zero, [minitt][minitt]
-+ Stage one, [voile][voile]
++ Stage zero, [minitt][minitt], minimal DT
++ Stage one, [voile][voile], added non-dependent row-polymorphism to DT
 
  [minitt]: https://github.com/owo-lang/minitt-rs
  [voile]:  https://github.com/owo-lang/voile-rs
 
-We dig through the history, trying to find something interested but forgotten.
+We dig through the history, trying to find something interesting but forgotten.
 We refactor the projects to fit state-of-the-art compilers and make IDE (IntelliJ plugin) for them.
 
 + A revived [Mini-TT][mtt]
